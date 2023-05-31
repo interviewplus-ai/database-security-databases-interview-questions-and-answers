@@ -1,4 +1,4 @@
-# Database Security Databases Interview Questions And Answers
+# Database Security Interview Questions And Answers
 
 Most targeted up-to-date Database Security interview questions and answers list
 
